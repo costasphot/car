@@ -4,74 +4,24 @@ This project represents a simple car simulation with different versions. Each ve
 
 ## Table of Contents
 
-1. [Version 1](#version-1)
-   - [Building](#building)
-   - [Features](#features)
-2. [Version 2](#version-2)
-   - [Building](#building)
-   - [Features](#features)
-3. [Version 3](#version-3)
-   - [Building](#building)
-   - [Features](#features)
-4. [Version 4](#version-4)
-   - [Building](#building)
-   - [Features](#features)
-5. [Common Headers](#common-headers)
-6. [Build Artifacts](#build-artifacts)
-7. [Explore Source Code](#explore-source-code)
-8. [License](#license)
+1. [Versions](#versions)
+2. [Common Headers](#common-headers)
+3. [Build Artifacts](#build-artifacts)
+4. [Explore Source Code](#explore-source-code)
+5. [License](#license)
+6. [Why?](#why)
 
-## Version 1
+## Versions
 
-### Building
+If you want to know more about each version's improvements or any other information, you may check each version's 'README.md' file. The latest functionalities of my car project can be found in the most recently uploaded version.
 
-To build the version 1 executable, navigate to the `version_1/build/run` directory and run the `run.exe` file.
-
-### Features
-
-- Feature 1
-- Feature 2
-- ...
-
-## Version 2
-
-### Building
-
-To build the version 2 executable, navigate to the `version_2/build/run` directory and run the `run.exe` file.
-
-### Features
-
-- Feature A
-- Feature B
-- ...
-
-## Version 3
-
-### Building
-
-To build the version 3 executable, navigate to the `version_3/build/run` directory and run the `run.exe` file.
-
-### Features
-
-- Feature X
-- Feature Y
-- ...
-
-## Version 4
-
-### Building
-
-To build the version 4 executable, navigate to the `version_4/build/run` directory and run the `run.exe` file.
-
-### Features
-
-- Feature Z
-- Feature W
-- ...
+**Note**: The first three versions only have a template `README.md` file, for the reason being that this is my first project and I didn't know much about how a proper project structure looks like.
 
 ## Common Headers
 
-The `common_headers` directory contains header files shared across all versions.
+The `common_headers` directory contains header files shared across all versions (at least I'll try to be consistent for the most recent ones).
+
+**Note**: The first three versions have no common headers, because the very first one was not introduced until the 4th version of my project.
 
 ## Build Artifacts
 
@@ -84,3 +34,7 @@ Feel free to explore the source code in the `src` and `include` directories for 
 ## License
 
 This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
+
+## Why?
+
+The reason why I started this project is for self-improvement and learn C++ better.
