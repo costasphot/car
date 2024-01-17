@@ -50,7 +50,7 @@ This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE
 - Improved configurability with the `Config` class.
 - Operating system-specific console configurations in `cmd_functions.hpp`.
 - Detailed [architecture](architecture.md) of the `Car` class and system components.
-- Added a compehensive [Usage Guide](usage_guide.md) for better understanding and utilization of the Car System.
+- Added a compehensive [usage guide](usage_guide.md) for better understanding and utilization of the Car System.
 
 ## Future Versions (To-Do List)
 
