@@ -8,8 +8,9 @@ This project represents a simple car simulation with different versions. Each ve
 2. [Common Headers](#common-headers)
 3. [Build Artifacts](#build-artifacts)
 4. [Explore Source Code](#explore-source-code)
-5. [License](#license)
-6. [Why?](#why)
+5. [Documentation](#documentation)
+6. [License](#license)
+7. [Why?](#why)
 
 ## Versions
 
@@ -30,6 +31,10 @@ Build artifacts, such as executables and DLLs, are located in the `build` direct
 ## Explore Source Code
 
 Feel free to explore the source code in the `src` and `include` directories for each version.
+
+## Documentation
+
+In addition to the project structure mentioned above, there is also a `docs` folder containing additional documentation, guides, and supplementary materials.
 
 ## License
 
